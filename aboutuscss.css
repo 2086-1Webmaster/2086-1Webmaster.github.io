@@ -170,7 +170,7 @@ div.testdiv {
   transform: translateY(4em) rotateZ(-5deg);
   transition: transform 4s .25s cubic-bezier(0,1,.3,1),
               opacity .3s .25s ease-out;
-max-width: 42vw;
+max-width: 45vw;
 max-height: 40vw;
   will-change: transform, opacity;
 }
